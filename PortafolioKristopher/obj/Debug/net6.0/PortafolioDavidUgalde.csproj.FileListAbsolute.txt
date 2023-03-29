@@ -1,0 +1,60 @@
+C:\Users\david\source\repos\PortafolioDavidUgalde\PortafolioDavidUgalde\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\david\source\repos\PortafolioDavidUgalde\PortafolioDavidUgalde\bin\Debug\net6.0\appsettings.json
+C:\Users\david\source\repos\PortafolioDavidUgalde\PortafolioDavidUgalde\bin\Debug\net6.0\PortafolioDavidUgalde.staticwebassets.runtime.json
+C:\Users\david\source\repos\PortafolioDavidUgalde\PortafolioDavidUgalde\bin\Debug\net6.0\PortafolioDavidUgalde.exe
+C:\Users\david\source\repos\PortafolioDavidUgalde\PortafolioDavidUgalde\bin\Debug\net6.0\PortafolioDavidUgalde.deps.json
+C:\Users\david\source\repos\PortafolioDavidUgalde\PortafolioDavidUgalde\bin\Debug\net6.0\PortafolioDavidUgalde.runtimeconfig.json
+C:\Users\david\source\repos\PortafolioDavidUgalde\PortafolioDavidUgalde\bin\Debug\net6.0\PortafolioDavidUgalde.dll
+C:\Users\david\source\repos\PortafolioDavidUgalde\PortafolioDavidUgalde\bin\Debug\net6.0\PortafolioDavidUgalde.pdb
+C:\Users\david\source\repos\PortafolioDavidUgalde\PortafolioDavidUgalde\obj\Debug\net6.0\PortafolioDavidUgalde.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\PortafolioDavidUgalde\PortafolioDavidUgalde\obj\Debug\net6.0\PortafolioDavidUgalde.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\PortafolioDavidUgalde\PortafolioDavidUgalde\obj\Debug\net6.0\PortafolioDavidUgalde.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\PortafolioDavidUgalde\PortafolioDavidUgalde\obj\Debug\net6.0\PortafolioDavidUgalde.AssemblyInfo.cs
+C:\Users\david\source\repos\PortafolioDavidUgalde\PortafolioDavidUgalde\obj\Debug\net6.0\PortafolioDavidUgalde.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\PortafolioDavidUgalde\PortafolioDavidUgalde\obj\Debug\net6.0\PortafolioDavidUgalde.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\david\source\repos\PortafolioDavidUgalde\PortafolioDavidUgalde\obj\Debug\net6.0\PortafolioDavidUgalde.RazorAssemblyInfo.cache
+C:\Users\david\source\repos\PortafolioDavidUgalde\PortafolioDavidUgalde\obj\Debug\net6.0\PortafolioDavidUgalde.RazorAssemblyInfo.cs
+C:\Users\david\source\repos\PortafolioDavidUgalde\PortafolioDavidUgalde\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\david\source\repos\PortafolioDavidUgalde\PortafolioDavidUgalde\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\david\source\repos\PortafolioDavidUgalde\PortafolioDavidUgalde\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\david\source\repos\PortafolioDavidUgalde\PortafolioDavidUgalde\obj\Debug\net6.0\scopedcss\bundle\PortafolioDavidUgalde.styles.css
+C:\Users\david\source\repos\PortafolioDavidUgalde\PortafolioDavidUgalde\obj\Debug\net6.0\scopedcss\projectbundle\PortafolioDavidUgalde.bundle.scp.css
+C:\Users\david\source\repos\PortafolioDavidUgalde\PortafolioDavidUgalde\obj\Debug\net6.0\PortafolioDavidUgalde.dll
+C:\Users\david\source\repos\PortafolioDavidUgalde\PortafolioDavidUgalde\obj\Debug\net6.0\refint\PortafolioDavidUgalde.dll
+C:\Users\david\source\repos\PortafolioDavidUgalde\PortafolioDavidUgalde\obj\Debug\net6.0\PortafolioDavidUgalde.pdb
+C:\Users\david\source\repos\PortafolioDavidUgalde\PortafolioDavidUgalde\obj\Debug\net6.0\PortafolioDavidUgalde.genruntimeconfig.cache
+C:\Users\david\source\repos\PortafolioDavidUgalde\PortafolioDavidUgalde\obj\Debug\net6.0\ref\PortafolioDavidUgalde.dll
+C:\Users\david\source\repos\PortafolioDavidUgalde\PortafolioDavidUgalde\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\david\source\repos\PortafolioDavidUgalde\PortafolioDavidUgalde\bin\Debug\net6.0\SendGrid.dll
+C:\Users\david\source\repos\PortafolioDavidUgalde\PortafolioDavidUgalde\bin\Debug\net6.0\StarkbankEcdsa.dll
+C:\Users\david\source\repos\PortafolioDavidUgalde\PortafolioDavidUgalde\obj\Debug\net6.0\PortafolioDavidUgalde.csproj.CopyComplete
+C:\Users\grett\Desktop\Nueva carpeta\PortafolioDavidUgalde\PortafolioDavidUgalde\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\grett\Desktop\Nueva carpeta\PortafolioDavidUgalde\PortafolioDavidUgalde\bin\Debug\net6.0\appsettings.json
+C:\Users\grett\Desktop\Nueva carpeta\PortafolioDavidUgalde\PortafolioDavidUgalde\bin\Debug\net6.0\PortafolioDavidUgalde.staticwebassets.runtime.json
+C:\Users\grett\Desktop\Nueva carpeta\PortafolioDavidUgalde\PortafolioDavidUgalde\bin\Debug\net6.0\PortafolioDavidUgalde.exe
+C:\Users\grett\Desktop\Nueva carpeta\PortafolioDavidUgalde\PortafolioDavidUgalde\bin\Debug\net6.0\PortafolioDavidUgalde.deps.json
+C:\Users\grett\Desktop\Nueva carpeta\PortafolioDavidUgalde\PortafolioDavidUgalde\bin\Debug\net6.0\PortafolioDavidUgalde.runtimeconfig.json
+C:\Users\grett\Desktop\Nueva carpeta\PortafolioDavidUgalde\PortafolioDavidUgalde\bin\Debug\net6.0\PortafolioDavidUgalde.dll
+C:\Users\grett\Desktop\Nueva carpeta\PortafolioDavidUgalde\PortafolioDavidUgalde\bin\Debug\net6.0\PortafolioDavidUgalde.pdb
+C:\Users\grett\Desktop\Nueva carpeta\PortafolioDavidUgalde\PortafolioDavidUgalde\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\grett\Desktop\Nueva carpeta\PortafolioDavidUgalde\PortafolioDavidUgalde\bin\Debug\net6.0\SendGrid.dll
+C:\Users\grett\Desktop\Nueva carpeta\PortafolioDavidUgalde\PortafolioDavidUgalde\bin\Debug\net6.0\StarkbankEcdsa.dll
+C:\Users\grett\Desktop\Nueva carpeta\PortafolioDavidUgalde\PortafolioDavidUgalde\obj\Debug\net6.0\PortafolioDavidUgalde.csproj.AssemblyReference.cache
+C:\Users\grett\Desktop\Nueva carpeta\PortafolioDavidUgalde\PortafolioDavidUgalde\obj\Debug\net6.0\PortafolioDavidUgalde.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grett\Desktop\Nueva carpeta\PortafolioDavidUgalde\PortafolioDavidUgalde\obj\Debug\net6.0\PortafolioDavidUgalde.AssemblyInfoInputs.cache
+C:\Users\grett\Desktop\Nueva carpeta\PortafolioDavidUgalde\PortafolioDavidUgalde\obj\Debug\net6.0\PortafolioDavidUgalde.AssemblyInfo.cs
+C:\Users\grett\Desktop\Nueva carpeta\PortafolioDavidUgalde\PortafolioDavidUgalde\obj\Debug\net6.0\PortafolioDavidUgalde.csproj.CoreCompileInputs.cache
+C:\Users\grett\Desktop\Nueva carpeta\PortafolioDavidUgalde\PortafolioDavidUgalde\obj\Debug\net6.0\PortafolioDavidUgalde.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\grett\Desktop\Nueva carpeta\PortafolioDavidUgalde\PortafolioDavidUgalde\obj\Debug\net6.0\PortafolioDavidUgalde.RazorAssemblyInfo.cache
+C:\Users\grett\Desktop\Nueva carpeta\PortafolioDavidUgalde\PortafolioDavidUgalde\obj\Debug\net6.0\PortafolioDavidUgalde.RazorAssemblyInfo.cs
+C:\Users\grett\Desktop\Nueva carpeta\PortafolioDavidUgalde\PortafolioDavidUgalde\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\grett\Desktop\Nueva carpeta\PortafolioDavidUgalde\PortafolioDavidUgalde\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\grett\Desktop\Nueva carpeta\PortafolioDavidUgalde\PortafolioDavidUgalde\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\grett\Desktop\Nueva carpeta\PortafolioDavidUgalde\PortafolioDavidUgalde\obj\Debug\net6.0\scopedcss\bundle\PortafolioDavidUgalde.styles.css
+C:\Users\grett\Desktop\Nueva carpeta\PortafolioDavidUgalde\PortafolioDavidUgalde\obj\Debug\net6.0\scopedcss\projectbundle\PortafolioDavidUgalde.bundle.scp.css
+C:\Users\grett\Desktop\Nueva carpeta\PortafolioDavidUgalde\PortafolioDavidUgalde\obj\Debug\net6.0\PortafolioDavidUgalde.csproj.CopyComplete
+C:\Users\grett\Desktop\Nueva carpeta\PortafolioDavidUgalde\PortafolioDavidUgalde\obj\Debug\net6.0\PortafolioDavidUgalde.dll
+C:\Users\grett\Desktop\Nueva carpeta\PortafolioDavidUgalde\PortafolioDavidUgalde\obj\Debug\net6.0\refint\PortafolioDavidUgalde.dll
+C:\Users\grett\Desktop\Nueva carpeta\PortafolioDavidUgalde\PortafolioDavidUgalde\obj\Debug\net6.0\PortafolioDavidUgalde.pdb
+C:\Users\grett\Desktop\Nueva carpeta\PortafolioDavidUgalde\PortafolioDavidUgalde\obj\Debug\net6.0\PortafolioDavidUgalde.genruntimeconfig.cache
+C:\Users\grett\Desktop\Nueva carpeta\PortafolioDavidUgalde\PortafolioDavidUgalde\obj\Debug\net6.0\ref\PortafolioDavidUgalde.dll

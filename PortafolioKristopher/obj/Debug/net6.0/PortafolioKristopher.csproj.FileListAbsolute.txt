@@ -1,0 +1,60 @@
+C:\Users\grett\Desktop\Proyecto Kristopher\PortafolioKristopher\bin\Debug\net6.0\appsettings.json
+C:\Users\grett\Desktop\Proyecto Kristopher\PortafolioKristopher\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\grett\Desktop\Proyecto Kristopher\PortafolioKristopher\bin\Debug\net6.0\PortafolioKristopher.staticwebassets.runtime.json
+C:\Users\grett\Desktop\Proyecto Kristopher\PortafolioKristopher\bin\Debug\net6.0\PortafolioKristopher.exe
+C:\Users\grett\Desktop\Proyecto Kristopher\PortafolioKristopher\bin\Debug\net6.0\PortafolioKristopher.deps.json
+C:\Users\grett\Desktop\Proyecto Kristopher\PortafolioKristopher\bin\Debug\net6.0\PortafolioKristopher.runtimeconfig.json
+C:\Users\grett\Desktop\Proyecto Kristopher\PortafolioKristopher\bin\Debug\net6.0\PortafolioKristopher.dll
+C:\Users\grett\Desktop\Proyecto Kristopher\PortafolioKristopher\bin\Debug\net6.0\PortafolioKristopher.pdb
+C:\Users\grett\Desktop\Proyecto Kristopher\PortafolioKristopher\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\grett\Desktop\Proyecto Kristopher\PortafolioKristopher\bin\Debug\net6.0\SendGrid.dll
+C:\Users\grett\Desktop\Proyecto Kristopher\PortafolioKristopher\bin\Debug\net6.0\StarkbankEcdsa.dll
+C:\Users\grett\Desktop\Proyecto Kristopher\PortafolioKristopher\obj\Debug\net6.0\PortafolioKristopher.csproj.AssemblyReference.cache
+C:\Users\grett\Desktop\Proyecto Kristopher\PortafolioKristopher\obj\Debug\net6.0\PortafolioKristopher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grett\Desktop\Proyecto Kristopher\PortafolioKristopher\obj\Debug\net6.0\PortafolioKristopher.AssemblyInfoInputs.cache
+C:\Users\grett\Desktop\Proyecto Kristopher\PortafolioKristopher\obj\Debug\net6.0\PortafolioKristopher.AssemblyInfo.cs
+C:\Users\grett\Desktop\Proyecto Kristopher\PortafolioKristopher\obj\Debug\net6.0\PortafolioKristopher.csproj.CoreCompileInputs.cache
+C:\Users\grett\Desktop\Proyecto Kristopher\PortafolioKristopher\obj\Debug\net6.0\PortafolioKristopher.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\grett\Desktop\Proyecto Kristopher\PortafolioKristopher\obj\Debug\net6.0\PortafolioKristopher.RazorAssemblyInfo.cache
+C:\Users\grett\Desktop\Proyecto Kristopher\PortafolioKristopher\obj\Debug\net6.0\PortafolioKristopher.RazorAssemblyInfo.cs
+C:\Users\grett\Desktop\Proyecto Kristopher\PortafolioKristopher\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\grett\Desktop\Proyecto Kristopher\PortafolioKristopher\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\grett\Desktop\Proyecto Kristopher\PortafolioKristopher\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\grett\Desktop\Proyecto Kristopher\PortafolioKristopher\obj\Debug\net6.0\scopedcss\bundle\PortafolioKristopher.styles.css
+C:\Users\grett\Desktop\Proyecto Kristopher\PortafolioKristopher\obj\Debug\net6.0\scopedcss\projectbundle\PortafolioKristopher.bundle.scp.css
+C:\Users\grett\Desktop\Proyecto Kristopher\PortafolioKristopher\obj\Debug\net6.0\PortafolioKristopher.csproj.CopyComplete
+C:\Users\grett\Desktop\Proyecto Kristopher\PortafolioKristopher\obj\Debug\net6.0\PortafolioKristopher.dll
+C:\Users\grett\Desktop\Proyecto Kristopher\PortafolioKristopher\obj\Debug\net6.0\refint\PortafolioKristopher.dll
+C:\Users\grett\Desktop\Proyecto Kristopher\PortafolioKristopher\obj\Debug\net6.0\PortafolioKristopher.pdb
+C:\Users\grett\Desktop\Proyecto Kristopher\PortafolioKristopher\obj\Debug\net6.0\PortafolioKristopher.genruntimeconfig.cache
+C:\Users\grett\Desktop\Proyecto Kristopher\PortafolioKristopher\obj\Debug\net6.0\ref\PortafolioKristopher.dll
+C:\Users\grett\Desktop\Proyecto Investigacion de operaciones\Proyecto Kristopher\PortafolioKristopher\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\grett\Desktop\Proyecto Investigacion de operaciones\Proyecto Kristopher\PortafolioKristopher\bin\Debug\net6.0\appsettings.json
+C:\Users\grett\Desktop\Proyecto Investigacion de operaciones\Proyecto Kristopher\PortafolioKristopher\bin\Debug\net6.0\PortafolioKristopher.staticwebassets.runtime.json
+C:\Users\grett\Desktop\Proyecto Investigacion de operaciones\Proyecto Kristopher\PortafolioKristopher\bin\Debug\net6.0\PortafolioKristopher.exe
+C:\Users\grett\Desktop\Proyecto Investigacion de operaciones\Proyecto Kristopher\PortafolioKristopher\bin\Debug\net6.0\PortafolioKristopher.deps.json
+C:\Users\grett\Desktop\Proyecto Investigacion de operaciones\Proyecto Kristopher\PortafolioKristopher\bin\Debug\net6.0\PortafolioKristopher.runtimeconfig.json
+C:\Users\grett\Desktop\Proyecto Investigacion de operaciones\Proyecto Kristopher\PortafolioKristopher\bin\Debug\net6.0\PortafolioKristopher.dll
+C:\Users\grett\Desktop\Proyecto Investigacion de operaciones\Proyecto Kristopher\PortafolioKristopher\bin\Debug\net6.0\PortafolioKristopher.pdb
+C:\Users\grett\Desktop\Proyecto Investigacion de operaciones\Proyecto Kristopher\PortafolioKristopher\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\grett\Desktop\Proyecto Investigacion de operaciones\Proyecto Kristopher\PortafolioKristopher\bin\Debug\net6.0\SendGrid.dll
+C:\Users\grett\Desktop\Proyecto Investigacion de operaciones\Proyecto Kristopher\PortafolioKristopher\bin\Debug\net6.0\StarkbankEcdsa.dll
+C:\Users\grett\Desktop\Proyecto Investigacion de operaciones\Proyecto Kristopher\PortafolioKristopher\obj\Debug\net6.0\PortafolioKristopher.csproj.AssemblyReference.cache
+C:\Users\grett\Desktop\Proyecto Investigacion de operaciones\Proyecto Kristopher\PortafolioKristopher\obj\Debug\net6.0\PortafolioKristopher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grett\Desktop\Proyecto Investigacion de operaciones\Proyecto Kristopher\PortafolioKristopher\obj\Debug\net6.0\PortafolioKristopher.AssemblyInfoInputs.cache
+C:\Users\grett\Desktop\Proyecto Investigacion de operaciones\Proyecto Kristopher\PortafolioKristopher\obj\Debug\net6.0\PortafolioKristopher.AssemblyInfo.cs
+C:\Users\grett\Desktop\Proyecto Investigacion de operaciones\Proyecto Kristopher\PortafolioKristopher\obj\Debug\net6.0\PortafolioKristopher.csproj.CoreCompileInputs.cache
+C:\Users\grett\Desktop\Proyecto Investigacion de operaciones\Proyecto Kristopher\PortafolioKristopher\obj\Debug\net6.0\PortafolioKristopher.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\grett\Desktop\Proyecto Investigacion de operaciones\Proyecto Kristopher\PortafolioKristopher\obj\Debug\net6.0\PortafolioKristopher.RazorAssemblyInfo.cache
+C:\Users\grett\Desktop\Proyecto Investigacion de operaciones\Proyecto Kristopher\PortafolioKristopher\obj\Debug\net6.0\PortafolioKristopher.RazorAssemblyInfo.cs
+C:\Users\grett\Desktop\Proyecto Investigacion de operaciones\Proyecto Kristopher\PortafolioKristopher\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\grett\Desktop\Proyecto Investigacion de operaciones\Proyecto Kristopher\PortafolioKristopher\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\grett\Desktop\Proyecto Investigacion de operaciones\Proyecto Kristopher\PortafolioKristopher\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\grett\Desktop\Proyecto Investigacion de operaciones\Proyecto Kristopher\PortafolioKristopher\obj\Debug\net6.0\scopedcss\bundle\PortafolioKristopher.styles.css
+C:\Users\grett\Desktop\Proyecto Investigacion de operaciones\Proyecto Kristopher\PortafolioKristopher\obj\Debug\net6.0\scopedcss\projectbundle\PortafolioKristopher.bundle.scp.css
+C:\Users\grett\Desktop\Proyecto Investigacion de operaciones\Proyecto Kristopher\PortafolioKristopher\obj\Debug\net6.0\PortafolioKristopher.csproj.CopyComplete
+C:\Users\grett\Desktop\Proyecto Investigacion de operaciones\Proyecto Kristopher\PortafolioKristopher\obj\Debug\net6.0\PortafolioKristopher.dll
+C:\Users\grett\Desktop\Proyecto Investigacion de operaciones\Proyecto Kristopher\PortafolioKristopher\obj\Debug\net6.0\refint\PortafolioKristopher.dll
+C:\Users\grett\Desktop\Proyecto Investigacion de operaciones\Proyecto Kristopher\PortafolioKristopher\obj\Debug\net6.0\PortafolioKristopher.pdb
+C:\Users\grett\Desktop\Proyecto Investigacion de operaciones\Proyecto Kristopher\PortafolioKristopher\obj\Debug\net6.0\PortafolioKristopher.genruntimeconfig.cache
+C:\Users\grett\Desktop\Proyecto Investigacion de operaciones\Proyecto Kristopher\PortafolioKristopher\obj\Debug\net6.0\ref\PortafolioKristopher.dll

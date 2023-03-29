@@ -1,0 +1,33 @@
+﻿@model HomeIndexViewModel
+
+@if (Model.Projects is not null)
+{
+    <div class="text-center" style="padding-top: 4rem;">
+        <h1>Alojamiento</h1>
+        <h1>Habitaciones y Suites bellamente decoradas</h1>
+        <p>
+            Todos los artículos esenciales y más los puede encontrar en nuestras modernas y elegantes   habitaciones, con una                     selección de comodidades para que se sienta como en casa.
+            A continuación podrá conocer diversas categorías de habitaciones y seleccionar la mas adecuada a sus necesidades:
+        </p>
+    </div>
+
+    <div class="container">
+        <div class="row row-cols-1 row-cols-md-3 g-4">
+            @foreach (var item in Model.Projects)
+            {
+                <div class="col">
+                    <div class="card h-100">
+                        <img src="@item.ImageURL" class="card-img-top" alt="Image"/>
+                        <div class="card-body">
+                            <h5 class="card-title">@item.Title</h5>
+                            <p class="card-text">@item.Description</p>
+                            <a class="btn btn-outline-dark"  href="@item.Link" target="_blank" rel="noopener noreferrer">RESERVE AHORA</a>
+                            <label for="Precio" class="form-label">@item.Price"</label>
+
+                        </div>
+                    </div>
+                </div> 
+            }
+        </div>
+    </div>
+}
